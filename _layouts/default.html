@@ -29,7 +29,7 @@
           <p>{{ site.author-bio }}</p>
       </div>
       <nav>
-        <h6>Follow me on</h6>
+        <h6>My presence on internet</h6>
         <ul>
           {% if site.twitter %}
           <li><a target="_blank" href="https://twitter.com/{{ site.twitter }}">Twitter</a></li>
@@ -48,6 +48,9 @@
           {% endif %}
           {% if site.linkedin %}
           <li><a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin }}">LinkedIn</a></li>
+          {% endif %}
+          {% if site.mywebsite %}
+          <li><a target="_blank" href="https://{{ site.mywebsite }}">My Website</a></li>
           {% endif %}
         </ul>
       </nav>

@@ -11,14 +11,14 @@ url: "http://akhileshdevrari.github.io"
 baseurl: "/blog"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "A budding programmer from IIT Mandi."
+author-bio: "CSE Undergrad, IIT Mandi.\nCameras and compilers don't seem to like me.\nDespite having a lot of other choices, chose only to date life for last 20 years. Life is good :)"
 
 # Social Accounts (mine, as placeholders)
 
 github: akhileshdevrari
 facebook: devrari.akhilesh
 linkedin: akhileshdevrari
-
+mywebsite: akhileshdevrari.github.io
 # Google Analytics (you may want to changes these with yours or even delete :)
 
 # ga_domain: akhileshdevrari.github.io
