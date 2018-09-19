@@ -7,8 +7,8 @@ description: "CSE Undergrad, IIT Mandi"
 # Your name. Will show in your footer + sidebar
 author: "Akhilesh Devrari"
 
-url: ""
-baseurl: "http://akhileshdevrari.github.io/blog"
+url: "http://akhileshdevrari.github.io"
+baseurl: "/blog"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "CSE Undergrad, IIT Mandi.\nCameras and compilers don't seem to like me.\nDespite having a lot of other choices, chose only to date life for last 20 years. Life is good :)"
